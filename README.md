@@ -26,7 +26,7 @@ A classic Snake game implemented in Java using Swing for the GUI. Navigate the s
 <b>Running the Game</b>
 1. Clone the repository:
 
-        git clone https://github.com/yourusername/snake-game.git
+        git clone https://github.com/chalana05/SnakeGame
         cd snake-game
 
 2. Compile the Java files:
